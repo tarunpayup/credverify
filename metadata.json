@@ -1,0 +1,6 @@
+{
+  "name": "CredVerify - Peer-Verified Professional Marketplace",
+  "description": "Enterprise directory and marketplace for peer-verified Chartered Accountants, Doctors, Lawyers, and Software Engineers with multi-panel role-based workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
